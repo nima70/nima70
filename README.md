@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nima Shokouhfar</h1>
-<h3 align="center">A passionate Full-Stack Developer 🚀 & Digital Marketing Specialist 🎯</h3>
+<h3 align="center">A passionate Full-Stack Developer 💻 with a flair for Digital Marketing 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nima70&label=Profile%20views&color=0e75b6&style=flat" alt="nima70" /> </p>
 
