@@ -23,6 +23,10 @@ I share **coding tutorials**, **project walkthroughs**, and helpful tips for dev
 
 ➡️ **[Subscribe to Code with Nima](https://www.youtube.com/c/codewithnima)** to level up your coding skills!
 
+[![Watch the video](https://img.youtube.com/vi/1ji7S394CKA/maxresdefault.jpg)](https://youtu.be/1ji7S394CKA)
+
+### [Watch this video on YouTube](https://youtu.be/1ji7S394CKA)
+
 ---
 
 ### 📝 Read My Latest Blog Posts
