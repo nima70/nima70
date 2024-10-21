@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nima Shokouhfar</h1>
-<h3 align="center">A passionate Full-Stack Developer 💻 with a flair for Digital Marketing 🚀 and expertise in Software Architecture and Open-Source Contributions</h3>
+<h3 align="center">A passionate Full-Stack Developer 💻 with a flair for Digital Marketing 🚀 and expertise in Software Architecture</h3>
 
 <div align="center">
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coding Achievements" width="300"/>
