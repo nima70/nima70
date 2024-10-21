@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full-Stack Developer 💻 with a flair for Digital Marketing 🚀 and expertise in Software Architecture and Open-Source Contributions</h3>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coding Achievements" width="250"/>
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coding Achievements" width="300"/>
 </div>
 
 <p align="center">
@@ -39,6 +39,10 @@ If you prefer written content, check out my blog posts here:
 
 ➡️ **[Follow me on Medium](https://medium.com/@nima.shokofar)** for articles on software development, architecture patterns, and more!
 
+<div align="center">
+  <img src="https://media.giphy.com/media/8dYmJ6Buo3lYY/giphy.gif" alt="Reading Baby GIF" width="480" height="350"/>
+</div>
+
 ---
 
 ### 🛠 Hire Me on Upwork
@@ -46,7 +50,9 @@ Looking for a **Full-Stack Developer** to help with your project?
 I’m available for **freelance work** on Upwork, specializing in **software architecture**, **front-end development**, and **open-source projects**.
 
 ➡️ **[Hire me on Upwork](https://www.upwork.com/freelancers/nimas12)** and let's build something amazing!
-
+<div align="center">
+  <img src="https://media.giphy.com/media/phFcBPTl79FQbEuvQ7/giphy.gif" alt="Puss in Boots GIF" width="800"/>
+</div>
 ---
 
 ### 🌐 Connect with me
@@ -101,5 +107,5 @@ I’m available for **freelance work** on Upwork, specializing in **software arc
 I'm glad you stopped by. Let's create something awesome together!
 
 <div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Thank You" width="200"/>
+  <img src="https://media.giphy.com/media/YqzEeJqBTVomYafzjO/giphy.gif" alt="Bye, I'll Miss You GIF" width="400"/>
 </div>
