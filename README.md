@@ -1,4 +1,9 @@
-<meta name="google-site-verification" content="XJsmsFRU8YjZoWG8M0NBnxRTPvLV43J6cMYJ_CWqpQs" />
+<!DOCTYPE html>
+<html>
+<head>
+  <meta name="google-site-verification" content="XJsmsFRU8YjZoWG8M0NBnxRTPvLV43J6cMYJ_CWqpQs" />
+  <title>My GitHub Page</title>
+</head>
 <h1 align="center">Hi 👋, I'm Nima Shokouhfar</h1>
 <h3 align="center">A passionate Full-Stack Developer 💻 with a flair for Digital Marketing 🚀 and expertise in Software Architecture</h3>
 
