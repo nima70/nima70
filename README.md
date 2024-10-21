@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Nima Shokouhfar</h1>
 <h3 align="center">A passionate Full-Stack Developer 💻 with a flair for Digital Marketing 🚀 and expertise in Software Architecture and Open-Source Contributions</h3>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coding Achievements" width="500"/>
+</div>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nima70&label=Profile%20views&color=0e75b6&style=flat" alt="nima70" />
   <a href="https://twitter.com/nima_brv" target="blank"><img src="https://img.shields.io/twitter/follow/nima_brv?logo=twitter&style=for-the-badge" alt="nima_brv" /></a>
@@ -83,6 +87,7 @@ I’m available for **freelance work** on Upwork, specializing in **software arc
   </a>
 </p>
 
+
 ---
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nima70&show_icons=true&locale=en&layout=compact" alt="nima70" /></p>
@@ -90,3 +95,11 @@ I’m available for **freelance work** on Upwork, specializing in **software arc
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nima70&show_icons=true&locale=en" alt="nima70" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nima70&" alt="nima70" /></p>
+
+
+### 🙏 Thank You for Visiting!
+I'm glad you stopped by. Let's create something awesome together!
+
+<div align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Thank You" width="200"/>
+</div>
