@@ -5,11 +5,6 @@
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coding Achievements" width="300"/>
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nima70&label=Profile%20views&color=0e75b6&style=flat" alt="nima70" />
-  <a href="https://twitter.com/nima_brv" target="blank"><img src="https://img.shields.io/twitter/follow/nima_brv?logo=twitter&style=for-the-badge" alt="nima_brv" /></a>
-</p>
-
 ---
 
 - 🔭 I’m currently working on **[Ideariver.ca](https://ideariver.ca/)**  
@@ -27,7 +22,11 @@ I share **coding tutorials**, **project walkthroughs**, and helpful tips for dev
 
 ➡️ **[Subscribe to Code with Nima](https://www.youtube.com/c/codewithnima)** to level up your coding skills!
 
-[![Watch the video](https://img.youtube.com/vi/1ji7S394CKA/maxresdefault.jpg)](https://youtu.be/1ji7S394CKA)
+<div align="center">
+  <a href="https://youtu.be/1ji7S394CKA" target="_blank">
+    <img src="https://img.youtube.com/vi/1ji7S394CKA/maxresdefault.jpg" alt="Watch the video" width="600"/>
+  </a>
+</div>
 
 ### [Watch this video on YouTube](https://youtu.be/1ji7S394CKA)
 
