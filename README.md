@@ -25,7 +25,7 @@
 If you're interested in **front-end development**, **software architecture**, or **open-source projects**, you'll love my YouTube content!  
 I share **coding tutorials**, **project walkthroughs**, and helpful tips for developers of all levels.
 
-➡️ **[Subscribe to Code with Nima](https://www.youtube.com/c/codewithnima)** to level up your coding skills!
+➡️ **[Subscribe to Code with Nima](https://www.youtube.com/@codewithnima)** to level up your coding skills!
 
 <div align="center">
   <a href="https://youtu.be/1ji7S394CKA" target="_blank">
