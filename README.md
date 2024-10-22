@@ -13,7 +13,7 @@
 ---
 
 - 🔭 I’m currently working on **[Ideariver.ca](https://ideariver.ca/)**  
-- 🤝 Seeking help with **[Ideariver Plugin System](https://github.com/nima70/ideariver.core.public.git)**  
+- 🤝 Seeking help with **[Ideariver](https://github.com/nima70/ideariver.git)**  
 - 🛠 Working on **[Keycloakify](https://www.keycloakify.dev/)** and **[Keycloakify Tailwind Shadcn](https://github.com/nima70/keycloakify-tailwind-shadcn)**  
 - 📝 I regularly write articles on **[Medium](https://medium.com/@nima.shokofar)**  
 - 💬 Ask me about **Domain Driven Design**, **Clean Architecture**, **TDD**, **Event Driven Design**, **Microservices**, and more!  
