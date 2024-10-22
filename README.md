@@ -11,14 +11,20 @@
 </div>
 
 ---
-<h2 align="center">
-  💡 Check Out IdeaRiver Monorepo 💡
-</h2>
 
-If you want to dive into the heart of my work, make sure to explore the **[IdeaRiver Monorepo](https://github.com/nima70/ideariver.git)**.  
-It's the core of the IdeaRiver ecosystem, where all the submodules are integrated for seamless development. This is the place to see how everything comes together!
+<div align="center" style="background-color: #f0f8ff; padding: 20px; border: 2px solid #000;">
+  <h2>💡 Check Out the IdeaRiver Monorepo 💡</h2>
+  
+  <p>If you want to dive into the heart of my work, make sure to explore the <strong><a href="https://github.com/nima70/ideariver.git">IdeaRiver Monorepo</a></strong>.</p>
+  
+  <p>It's the core of the IdeaRiver ecosystem, where all the submodules are integrated for seamless development. Watch the video below to learn more:</p>
 
-➡️ **[Go to the IdeaRiver Monorepo](https://github.com/nima70/ideariver.git)** to explore the main repository, including services, plugins, and infrastructure!
+  [![Watch the video](https://img.youtube.com/vi/1ji7S394CKA/maxresdefault.jpg)](https://youtu.be/1ji7S394CKA)
+
+  ### [Watch this video on YouTube](https://youtu.be/1ji7S394CKA)
+  
+  <strong>➡️ <a href="https://github.com/nima70/ideariver.git">Go to the IdeaRiver Monorepo</a></strong> to explore the main repository, including services, plugins, and infrastructure!
+</div>
 
 ---
 
