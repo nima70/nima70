@@ -44,12 +44,12 @@ I share **coding tutorials**, **project walkthroughs**, and helpful tips for dev
 ➡️ **[Subscribe to Code with Nima](https://www.youtube.com/@codewithnima)** to level up your coding skills!
 
 <div align="center">
-  <a href="https://youtu.be/1ji7S394CKA" target="_blank">
-    <img src="https://img.youtube.com/vi/1ji7S394CKA/maxresdefault.jpg" alt="Watch the video" width="600"/>
+  <a href="https://youtu.be/F84xazbVw7Y" target="_blank">
+    <img src="https://img.youtube.com/vi/F84xazbVw7Y/maxresdefault.jpg" alt="Watch the video" width="600"/>
   </a>
 </div>
 
-### [Watch this video on YouTube](https://youtu.be/1ji7S394CKA)
+### [Watch this video on YouTube](https://youtu.be/F84xazbVw7Y)
 
 ---
 
