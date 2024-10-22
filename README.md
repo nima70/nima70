@@ -17,7 +17,7 @@
 - 🛠 Working on **[Keycloakify](https://www.keycloakify.dev/)** and **[Keycloakify Tailwind Shadcn](https://github.com/nima70/keycloakify-tailwind-shadcn)**  
 - 📝 I regularly write articles on **[Medium](https://medium.com/@nima.shokofar)**  
 - 💬 Ask me about **Domain Driven Design**, **Clean Architecture**, **TDD**, **Event Driven Design**, **Microservices**, and more!  
-- 🎥 **Check out my YouTube Channel**: **[Code with Nima](https://www.youtube.com/c/codewithnima)** for coding tutorials, real-world projects, and tips to enhance your development skills!
+- 🎥 **Check out my YouTube Channel**: **[Code with Nima](https://www.youtube.com/@codewithnima)** for coding tutorials, real-world projects, and tips to enhance your development skills!
 
 ---
 
@@ -67,7 +67,7 @@ I’m available for **freelance work** on Upwork, specializing in **software arc
   <a href="https://fb.com/nima shokouhfar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nima shokouhfar" height="30" width="40" /></a>
   <a href="https://instagram.com/nima_brv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nima_brv" height="30" width="40" /></a>
   <a href="https://medium.com/@nima.shokofar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nima.shokofar" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/c/codewithnima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="code with nima" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/@codewithnima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="code with nima" height="30" width="40" /></a>
 </p>
 
 ---
