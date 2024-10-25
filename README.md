@@ -4,14 +4,16 @@
   <meta name="google-site-verification" content="XJsmsFRU8YjZoWG8M0NBnxRTPvLV43J6cMYJ_CWqpQs" />
 </head>
 <h1 align="center">Hi 👋, I'm Nima Shokouhfar</h1>
+
+
+
+
+
+
+
+https://github.com/user-attachments/assets/8984bdad-d587-49dd-acfa-f454f4821f62
+
 <h3 align="center">A passionate Full-Stack Developer 💻 with a flair for Digital Marketing 🚀 and expertise in Software Architecture</h3>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coding Achievements" width="300"/>
-</div>
-
----
-
 <div align="center" style="background-color: #f0f8ff; padding: 20px; border: 2px solid #000;">
   <h2>💡 Check Out the IdeaRiver Monorepo 💡</h2>
   
