@@ -12,8 +12,10 @@
 
 
 https://github.com/user-attachments/assets/8984bdad-d587-49dd-acfa-f454f4821f62
+<h2><a href="https://youtu.be/xfzsgEkCUvw?si=tTGG0rI4PDeVD9yD">Watch the full video here</a></h2>
 
-<h3 align="center">A passionate Full-Stack Developer 💻 with a flair for Digital Marketing 🚀 and expertise in Software Architecture</h3>
+<h3>I'm a passionate Full-Stack Developer 💻 with a flair for Digital Marketing 🚀, a love for Software Architecture, and a drive to make ambitious ideas come to life.</h3>
+
 <div align="center" style="background-color: #f0f8ff; padding: 20px; border: 2px solid #000;">
   <h2>💡 Check Out the IdeaRiver Monorepo 💡</h2>
   
