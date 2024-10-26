@@ -11,7 +11,11 @@
 
 
 
-https://github.com/user-attachments/assets/8984bdad-d587-49dd-acfa-f454f4821f62
+
+https://github.com/user-attachments/assets/1453ccf0-4378-46f1-89df-3b4fbb193ea3
+
+
+
 <h2><a href="https://youtu.be/xfzsgEkCUvw?si=tTGG0rI4PDeVD9yD">Watch the full video here</a></h2>
 
 <h3>I'm a passionate Full-Stack Developer 💻 with a flair for Digital Marketing 🚀, a love for Software Architecture, and a drive to make ambitious ideas come to life.</h3>
